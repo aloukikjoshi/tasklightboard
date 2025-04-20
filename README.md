@@ -56,7 +56,7 @@ Ensure you have the following installed:
 
 ### 📜 License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the **Apache License 2.0**. See the full license text [here](https://github.com/aloukikjoshi/tasklightboard/blob/main/LICENSE).
 
 ### 💬 Contact
 
