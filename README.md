@@ -5,7 +5,7 @@
 ![Task Lightboard Logo](./public/tasklist.png)
 
 </div>
-<strong>Task Lightboard</strong> is a visually stunning and highly interactive task management tool built with modern technologies like **TypeScript** and **CSS**. With a focus on simplicity, collaboration, and aesthetics, Task Lightboard helps you keep track of your tasks like never before.
+<strong>Task Lightboard</strong> is a visually stunning and highly interactive task management tool built with modern technologies like <strong>TypeScript</strong> and <strong>CSS</strong>. With a focus on simplicity, collaboration, and aesthetics, Task Lightboard helps you keep track of your tasks like never before.
 
 ---
 
